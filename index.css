@@ -1,0 +1,43 @@
+.pai{
+    display: flex;
+    width: 20px;
+    height: 20px;
+    align-items: center;
+    justify-content: space-around;
+    border: 2px solid black;
+}
+
+.logo{
+    display: flex;
+    width: 30px;
+    height: 30px;
+    background-repeat: no-repeat;
+}
+@media screen and (max-width: 768) {
+    section, aside {
+        width: 100%;
+        padding: 0%;
+    }
+}
+@media screen and (max-width: 600px) {
+    nav p {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+}
+.mensagem
+@media screen and (max-width: 768px) {
+    section, aside {
+        width: 100%;
+        padding: 0%;
+    }
+}
+.mensagem
+@media screen and (max-width: 600px) {
+    nav p {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+}
